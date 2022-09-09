@@ -19,4 +19,4 @@ after changing each tag.
 
 ### Screenshot of page
 
-![alt text](https://github.com/glitch0320/01-code-refactor/main/assets/images/01-screenshot?raw=true)
+<img src='./assets/images/01-screenshot.png' alt='full screenshot of marketing website'>
