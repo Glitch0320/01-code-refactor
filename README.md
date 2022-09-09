@@ -2,7 +2,7 @@
 
 ## Link to Page
 
-https://glitch0320.github.io/   01-code-refactor/
+https://glitch0320.github.io/01-code-refactor/
 
 ## Steps I took to solve this challenge
 
@@ -16,3 +16,7 @@ each element I highlighted.
 
 Because of my previous experience with html and css, I altered the css
 after changing each tag.
+
+### Screenshot of page
+
+./assets/images/01-screenshot
