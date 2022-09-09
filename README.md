@@ -19,4 +19,4 @@ after changing each tag.
 
 ### Screenshot of page
 
-./assets/images/01-screenshot
+![alt text](https://github.com/glitch0320/01-code-refactor/main/assets/images/01-screenshot?raw=true)
